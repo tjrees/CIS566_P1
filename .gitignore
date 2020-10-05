@@ -1,3 +1,5 @@
 tester
 .DS_Store
 *.png
+bw-output
+.scannerwork
